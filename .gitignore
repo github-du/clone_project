@@ -1,0 +1,4 @@
+# 忽略 text.css 这个文件
+text.js
+# 忽略 test 文件夹下所有文件
+test/
